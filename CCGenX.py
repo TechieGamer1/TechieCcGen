@@ -11,13 +11,20 @@ from corex import bin
 from time import sleep
 import webbrowser
 
+banrx = """    _        _____             _    __  __
+   / \   __ |_   _| __ ___    / \   \ \/ /
+  / _ \ / _` || || '_ ` _ \  / _ \   \  / 
+ / ___ \ (_| || || | | | | |/ ___ \  /  \ 
+/_/   \_\__,_||_||_| |_| |_/_/   \_\/_/\_\
+
+
+"""
+
 def detect_os():
     if "win" in sys.platform:
         return "windows"
     else:
         return "linux"
-
-os.system("bash postr")
 
 rd = colorama.Fore.RED
 cv = colorama.Fore.WHITE
@@ -30,10 +37,10 @@ gg = colorama.Fore.LIGHTCYAN_EX
 
 os.system("bash .postr.sh 0.02")
 
-def logo():
-    figlet = Figlet(font="standard").renderText("AaTmAX")
-    return (gn + figlet)
-print(logo())
+#def logo():
+#    figlet = Figlet(font="standard").renderText("AaTmAX")
+#    return (gn + figlet)
+print(banrx)
 print(cy + "[+] Script By BHaTkaTi AaTmA ")
 print(cy + "[+] Powered By MrHacker-X")
 print(cy + "[=] CCGenX Tools Version : 1.0")
