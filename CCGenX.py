@@ -2,7 +2,7 @@ import sys
 import requests 
 import json
 from bs4 import BeautifulSoup
-from pyfiglet import Figlet 
+#from pyfiglet import Figlet 
 import colorama
 import time
 import asyncio
@@ -15,8 +15,7 @@ banrx = """    _        _____             _    __  __
    / \   __ |_   _| __ ___    / \   \ \/ /
   / _ \ / _` || || '_ ` _ \  / _ \   \  / 
  / ___ \ (_| || || | | | | |/ ___ \  /  \ 
-/_/   \_\__,_||_||_| |_| |_/_/   \_\/_/\_\
-
+/_/   \_\__,_||_||_| |_| |_/_/   \_\/_/\_\\
 
 """
 
@@ -40,7 +39,7 @@ os.system("bash .postr.sh 0.02")
 #def logo():
 #    figlet = Figlet(font="standard").renderText("AaTmAX")
 #    return (gn + figlet)
-print(banrx)
+print(gn+banrx)
 print(cy + "[+] Script By BHaTkaTi AaTmA ")
 print(cy + "[+] Powered By MrHacker-X")
 print(cy + "[=] CCGenX Tools Version : 1.0")
