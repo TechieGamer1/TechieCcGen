@@ -62,6 +62,8 @@ $ python CCGenX.py
 
 ```
 
+> ~ Note: use ` sudo ` for installation if you're a linux user
+
 
 ## Screenshots
 
