@@ -52,13 +52,13 @@
 ## Installation
 
 ```
-apt-get update -y
-apt-get upgrade -y
-apt install git python3 python3-pip -y
-pip install requests pyfiglet colorama bs4
-git clone https://github.com/MrHacker-X/CCGenX.git
-cd CCGenX
-python ccgenx.py
+$ apt-get update -y
+$ apt-get upgrade -y
+$ apt install git python3 python3-pip -y
+$ pip install requests pyfiglet colorama bs4
+$ git clone https://github.com/MrHacker-X/CCGenX.git
+$ cd CCGenX
+$ python ccgenx.py
 
 ```
 
