@@ -33,6 +33,22 @@
 
 > python 3.x to Higher 
 
+## Card Example
+
+```
+[-] Brand : VISA                                                                         
+[-] Card Number : 4134352138171588                                                       
+[-] Bank : 121 FINANCIAL C.U.                                                                  
+[-] Name : Kaarlo Mikhail                                                                             
+[-] Address : 545 Davis Lane                                                                          
+[-] Country : UNITED STATES                                                                                    
+[-] Money Range : $733                                                                                         
+[-] CVV : 546                                                                                                  
+[-] Expiry : 11/2029                                                                                                                 
+[-] Pin : 6774                                                                                                                       
+============================  
+```
+
 ## Installation
 
 + ` apt-get update -y `
@@ -51,7 +67,7 @@
 ![photo](https://iili.io/HNcTNnf.png)
 ![photo](https://iili.io/HNcTjZG.png)
 
-## BHaTaKaTi AaTmA
+## BHaTakTi AaTmA
 
 [![Telegram](https://img.shields.io/badge/TOOL-CODER-red?style=for-the-badge&logo=telegram)](https://telegram.me/BHaTakTi_AaTmA_Hu_Me)
 
