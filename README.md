@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://instagram.com/0hacker_x0"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-CCGenX-green.svg"></a>
-<a href="https://youtube.com/@Technolex"><img title="Version" src="https://img.shields.io/badge/Version-0.91.1-green.svg?style=flat-square"></a>
+<a href="https://youtube.com/@Technolex"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://youtube.com/@Technolex"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
