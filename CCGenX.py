@@ -11,12 +11,13 @@ from corex import bin
 from time import sleep
 import webbrowser
 
-banrx = """    _        _____             _    __  __
-   / \   __ |_   _| __ ___    / \   \ \/ /
-  / _ \ / _` || || '_ ` _ \  / _ \   \  / 
- / ___ \ (_| || || | | | | |/ ___ \  /  \ 
-/_/   \_\__,_||_||_| |_| |_/_/   \_\/_/\_\\
-
+banrx = """     #     #######   ###### ###  ###  ######   ####### 
+  ######    ##   #  ##   ##  ##   ##    ##      ##   # 
+    ##      ##      ##    #  ##   ##    ##      ##     
+    ##      #####   ##       #######    ##      #####  
+    ##      ##      ##       ##   ##    ##      ##     
+    ## #    ##   #  ##   ##  ##   ##    ##      ##   # 
+     ##    #######   #####  ###  ###  ######   ####### 
 """
 
 def detect_os():
@@ -40,9 +41,9 @@ os.system("bash .postr.sh 0.02")
 #    figlet = Figlet(font="standard").renderText("AaTmAX")
 #    return (gn + figlet)
 print(gn+banrx)
-print(cy + "[+] Script By BHaTkaTi AaTmA ")
-print(cy + "[+] Powered By MrHacker-X")
-print(cy + "[=] CCGenX Tools Version : 1.0")
+print(cy + "[+] Script By Techie Gamer")
+print(cy + "[+] Telegram - @TechieGamer ")
+print(cy + "[=] TechieCcGen Tool Version : 1.4")
 
 opr = input (mag + "\n[01] Generate single valid cc\n[02] Generate multi valid cc (generate cc list)\n\n[^] Please Enter an option: ")
 
