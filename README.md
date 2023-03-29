@@ -31,13 +31,13 @@
 ## Installation
 
 ```
-$ apt-get update -y
-$ apt-get upgrade -y
-$ apt install git python3 python3-pip -y
-$ pip install requests colorama bs4
-$ git clone https://github.com/TechieGamer1/TechieCcGen.git
-$ cd CCGenX
-$ python CCGenX.py
+apt-get update -y
+apt-get upgrade -y
+apt install git python3 python3-pip -y
+pip install requests colorama bs4
+git clone https://github.com/TechieGamer1/TechieCcGen.git
+cd CCGenX
+python CCGenX.py
 
 ```
 
